@@ -1,4 +1,4 @@
-import Login from "@/screens/login-page";
+import Login from "@/app/screens/login-page";
 
 export default function Home() {
   return (

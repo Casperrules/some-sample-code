@@ -3,8 +3,8 @@ import { FaLinkedinIn } from "react-icons/fa";
 
 const Login = () => {
   return (
-    <div className="flex h-screen justify-center items-center overflow-hidden w-full relative top-0 z-0 bg-[#3487d9]">
-      <div className="rotate-[-65deg] absolute bottom-[-60%] right-[-60%] h-[100%] w-[155%] rounded-[30%] z-1 bg-[#fd297b]"></div>
+    <div className="flex h-screen justify-center items-center overflow-hidden w-full relative top-0 z-0 bg-[#3487d951]">
+      <div className="rotate-[-65deg] absolute bottom-[-60%] right-[-60%] h-[100%] w-[155%] rounded-[30%] z-1 bg-[#0A66C2]"></div>
       <div className="absolute text-[32px] text-[#0A66C2] font-semibold top-0 z-1 flex justify-start left-0 p-8">
         Welcome !
       </div>
