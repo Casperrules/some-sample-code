@@ -1,6 +1,4 @@
-import RandomNode from "@/components/random-node";
-import Image from "next/image";
-import Login from "./login/page";
+import Login from "@/screens/login-page";
 
 export default function Home() {
   return (
